@@ -9,11 +9,11 @@ const Footer = () => {
       © 2020 Marcus Legendre
       <br />
       This is free software provided under the{' '}
-      <a href="https://github.com/orangefoil/ss20-webtools-project/blob/master/LICENSE.md">
+      <a href="https://github.com/marcusleg/ss20-webtools-project/blob/master/LICENSE.md">
         MIT License
       </a>
       . The source code is hosted on{' '}
-      <a href="https://github.com/orangefoil/ss20-webtools-project/">GitHub</a>.
+      <a href="https://github.com/marcusleg/ss20-webtools-project/">GitHub</a>.
       <br />
       Built using Bootstrap (
       <a href="https://github.com/twbs/bootstrap/blob/main/LICENSE">
